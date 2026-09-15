@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "vorname": "Anna",
+    "nachname": "Fischer",
+    "initialen": "AF",
+    "foto": "https://placedog.net/500/500?id=1",
+    "projekte": ["Honigdachs", "Sternschnuppe"],
+    "sprachen": ["Deutsch", "Englisch"]
+  },
+  {
+    "id": "2",
+    "vorname": "Mykola",
+    "nachname": "Petrenko",
+    "initialen": "MP",
+    "foto": "https://placedog.net/500/500?id=2",
+    "projekte": ["Blauwal"],
+    "sprachen": ["Ukrainisch", "Russisch", "Deutsch"]
+  },
+  {
+    "id": "3",
+    "vorname": "Fatima",
+    "nachname": "Al-Sayed",
+    "initialen": "FA",
+    "foto": "https://placedog.net/500/500?id=3",
+    "projekte": ["Nordlicht", "Kaktus"],
+    "sprachen": ["Arabisch", "Englisch"]
+  },
+  {
+    "id": "4",
+    "vorname": "Carlos",
+    "nachname": "Fernández",
+    "initialen": "CF",
+    "foto": "https://placedog.net/500/500?id=4",
+    "projekte": ["Wildfeuer"],
+    "sprachen": ["Spanisch", "Englisch"]
+  },
+  {
+    "id": "5",
+    "vorname": "Olena",
+    "nachname": "Kovalenko",
+    "initialen": "OK",
+    "foto": "https://placedog.net/500/500?id=5",
+    "projekte": ["Honigdachs", "Eisbärchen"],
+    "sprachen": ["Ukrainisch", "Russisch"]
+  },
+  {
+    "id": "6",
+    "vorname": "Dmitri",
+    "nachname": "Sokolov",
+    "initialen": "DS",
+    "foto": "https://placedog.net/500/500?id=6",
+    "projekte": ["Sternschnuppe"],
+    "sprachen": ["Russisch", "Deutsch"]
+  },
+  {
+    "id": "7",
+    "vorname": "Lucía",
+    "nachname": "Torres",
+    "initialen": "LT",
+    "foto": "https://placedog.net/500/500?id=7",
+    "projekte": ["Blauwal", "Faultier"],
+    "sprachen": ["Spanisch", "Deutsch"]
+  },
+  {
+    "id": "8",
+    "vorname": "James",
+    "nachname": "Whitmore",
+    "initialen": "JW",
+    "foto": "https://placedog.net/500/500?id=8",
+    "projekte": ["Kaktus"],
+    "sprachen": ["Englisch"]
+  },
+  {
+    "id": "9",
+    "vorname": "Yasmin",
+    "nachname": "Haddad",
+    "initialen": "YH",
+    "foto": "https://placedog.net/500/500?id=9",
+    "projekte": ["Nordlicht", "Wildfeuer", "Honigdachs"],
+    "sprachen": ["Arabisch", "Deutsch", "Englisch"]
+  },
+  {
+    "id": "10",
+    "vorname": "Sophie",
+    "nachname": "Bauer",
+    "initialen": "SB",
+    "foto": "https://placedog.net/500/500?id=10",
+    "projekte": ["Eisbärchen"],
+    "sprachen": ["Deutsch"]
+  },
+  {
+    "id": "11",
+    "vorname": "Andrii",
+    "nachname": "Bondarenko",
+    "initialen": "AB",
+    "foto": "https://placedog.net/500/500?id=11",
+    "projekte": ["Sternschnuppe", "Blauwal"],
+    "sprachen": ["Ukrainisch", "Englisch"]
+  },
+  {
+    "id": "12",
+    "vorname": "Irina",
+    "nachname": "Volkova",
+    "initialen": "IV",
+    "foto": "https://placedog.net/500/500?id=12",
+    "projekte": ["Faultier"],
+    "sprachen": ["Russisch", "Ukrainisch"]
+  },
+  {
+    "id": "13",
+    "vorname": "Miguel Ángel",
+    "nachname": "Ruiz",
+    "initialen": "MR",
+    "foto": "https://placedog.net/500/500?id=13",
+    "projekte": ["Kaktus", "Nordlicht"],
+    "sprachen": ["Spanisch"]
+  },
+  {
+    "id": "14",
+    "vorname": "Omar",
+    "nachname": "Khalil",
+    "initialen": "OK",
+    "foto": "https://placedog.net/500/500?id=14",
+    "projekte": ["Honigdachs"],
+    "sprachen": ["Arabisch", "Russisch"]
+  },
+  {
+    "id": "15",
+    "vorname": "Emily",
+    "nachname": "Clark",
+    "initialen": "EC",
+    "foto": "https://placedog.net/500/500?id=15",
+    "projekte": ["Wildfeuer", "Eisbärchen"],
+    "sprachen": ["Englisch", "Deutsch"]
+  },
+  {
+    "id": "16",
+    "vorname": "Markus",
+    "nachname": "Weber",
+    "initialen": "MW",
+    "foto": "https://placedog.net/500/500?id=16",
+    "projekte": ["Blauwal"],
+    "sprachen": ["Deutsch", "Englisch"]
+  },
+  {
+    "id": "17",
+    "vorname": "Iryna",
+    "nachname": "Shevchenko",
+    "initialen": "IS",
+    "foto": "https://placedog.net/500/500?id=17",
+    "projekte": ["Sternschnuppe", "Faultier", "Kaktus"],
+    "sprachen": ["Ukrainisch", "Deutsch", "Englisch"]
+  },
+  {
+    "id": "18",
+    "vorname": "Sergei",
+    "nachname": "Ivanov",
+    "initialen": "SI",
+    "foto": "https://placedog.net/500/500?id=18",
+    "projekte": ["Nordlicht"],
+    "sprachen": ["Russisch"]
+  },
+  {
+    "id": "19",
+    "vorname": "Elena",
+    "nachname": "Martínez",
+    "initialen": "EM",
+    "foto": "https://placedog.net/500/500?id=19",
+    "projekte": ["Honigdachs", "Wildfeuer"],
+    "sprachen": ["Spanisch", "Russisch"]
+  },
+  {
+    "id": "20",
+    "vorname": "Layla",
+    "nachname": "Mansour",
+    "initialen": "LM",
+    "foto": "https://placedog.net/500/500?id=20",
+    "projekte": ["Eisbärchen", "Blauwal"],
+    "sprachen": ["Arabisch", "Englisch", "Deutsch"]
+  }
+]
