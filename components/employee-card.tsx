@@ -25,20 +25,20 @@ export function EmployeeCard({ employee }: EmployeeCardProps) {
       <div
         className={cn(
           "relative h-full w-full transition-transform duration-500 [transform-style:preserve-3d]",
-          flipped && "[transform:rotateY(180deg)]"
+          flipped && "[transform:rotateY(180deg)]",
         )}
       >
-        <Card className="absolute inset-0 h-full items-center justify-center gap-3 py-4 [backface-visibility:hidden]">
-          <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-full ring-2 ring-border sm:h-28 sm:w-28">
+        <Card className="absolute inset-0 h-full items-center gap-3 p-2 sm:p-4 [backface-visibility:hidden]">
+          <div className="relative w-full flex-1 overflow-hidden rounded-xl ring-2 ring-border">
             <Image
               src={employee.foto}
               alt={`${employee.vorname} ${employee.nachname}`}
               fill
-              sizes="112px"
+              sizes="(max-width: 640px) 90vw, 320px"
               className="object-cover"
             />
           </div>
-          <div className="flex flex-col items-center gap-2 px-2 text-center">
+          <div className="mt-auto flex flex-col items-center gap-2 px-2 text-center">
             <p className="text-sm font-medium sm:text-base">
               {employee.nachname} {employee.vorname}
             </p>
